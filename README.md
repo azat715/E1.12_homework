@@ -1,6 +1,6 @@
 [![Travis][build-badge]][build]
 
-[build-badge]: https://img.shields.io/travis/azat715/E1.12_homework/main.png?style=flat-square
+[build-badge]: https://travis-ci.org/travis-ci/docs-travis-ci-com.svg?branch=master
 
 [build]: https://travis-ci.com/azat715/E1.12_homework
 
