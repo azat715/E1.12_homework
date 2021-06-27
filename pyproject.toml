@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "gallows-game"
+name = "gallows_game"
 version = "0.1.0"
 description = "игра виселица"
 authors = ["azat715 <azat715@gmail.com>"]
@@ -11,6 +11,14 @@ fire = "^0.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.4"
+black = "^21.6b0"
+pylint = "^2.8.3"
+isort = "^5.9.1"
+ipython = "^7.25.0"
+mypy = "^0.910"
+
+[tool.poetry.scripts]
+gallows_game = "gallows_game.main:cli"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
