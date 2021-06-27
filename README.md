@@ -1,6 +1,6 @@
 [![Travis][build-badge]][build]
 
-[build-badge]: https://travis-ci.org/travis-ci/docs-travis-ci-com.svg?branch=master
+[build-badge]: https://travis-ci.com/azat715/E1.12_homework.svg?branch=main
 
 [build]: https://travis-ci.com/azat715/E1.12_homework
 
