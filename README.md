@@ -1,3 +1,10 @@
+[![Travis][build-badge]][build]
+
+[build-badge]: https://img.shields.io/travis/azat715/E1.12_homework/master.png?style=flat-square
+
+[build]: https://travis-ci.org/azat715/E1.12_homework
+
+
 # E1.12 Домашнее задание
 
 ## Общий функционал
@@ -28,8 +35,3 @@ pip install gallows_game-0.1.0.tar.gz
 ```
 gallows_game
 ```
-[![Travis][build-badge]][build]
-
-[build-badge]: https://img.shields.io/travis/ azat715 / E1.12_homework /master.png?style=flat-square
-
-[build]: https://travis-ci.org/ azat715 / E1.12_homework
